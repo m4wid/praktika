@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\prostPR\prostPR\bin\Debug\prostPR.exe.config
+C:\Users\admin\Desktop\prostPR\prostPR\bin\Debug\prostPR.exe
+C:\Users\admin\Desktop\prostPR\prostPR\bin\Debug\prostPR.pdb
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR_MarkupCompile.cache
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR_MarkupCompile.lref
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.g.resources
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.Properties.Resources.resources
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.exe
+C:\Users\admin\Desktop\prostPR\prostPR\obj\Debug\prostPR.pdb

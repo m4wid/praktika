@@ -1,0 +1,16 @@
+﻿<Window x:Class="prostPR.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:prostPR"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Right" VerticalAlignment="Center">
+            <TextBlock>Узнать информацию о ПК</TextBlock>
+            <Button x:Name="versionbtn" Content="Информация" Width="80" Height="20" Margin="0,5,50,0" Click="versionbtn_Click"></Button>
+        </StackPanel>
+       
+    </Grid>
+</Window>
